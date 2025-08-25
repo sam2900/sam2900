@@ -51,7 +51,7 @@ Clone the repository and install dependencies:
 git clone https://github.com/sam2900/EDA.git
 cd EDA
 pip install -r requirements.txt
-
+```
 
 ---
 
@@ -95,7 +95,7 @@ Clone the repository:
 git clone https://github.com/sam2900/uniNew-latest.git
 cd uniNew-latest
 
-
+```
 
 ---
 
