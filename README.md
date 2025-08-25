@@ -24,6 +24,27 @@ This tool helps users upload datasets, visualize insights, and perform quick ana
 
 🔗 **Live Demo**: [Try it here on Streamlit Cloud](https://eda.streamlit.app/)  
 
+---
+
+## 🚀 Features  
+- 👨‍🎓 **Student Management** – Register, update, and track student records  
+- 👩‍🏫 **Faculty Management** – Manage faculty data and assignments  
+- 📚 **Course Administration** – Add, edit, and enroll courses  
+- 📊 **Analytics Dashboard** – Visual overview of data (students, faculty, courses)  
+- 🌐 **Deployed on Vercel** – Accessible anytime, anywhere  
+
+---
+
+## 🛠️ Tech Stack  
+- **Frontend:** React, TailwindCSS  
+- **Backend (Planned/Future):** Node.js / Spring Boot  
+- **Database (Planned/Future):** PostgreSQL / MongoDB  
+- **Deployment:** Vercel  
+
+---
+
+
+
 
 # 🌌 UniVerse – Visual Problem-Solving Platform  
 
