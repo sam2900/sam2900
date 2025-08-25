@@ -109,9 +109,8 @@ cd uniNew-latest
 ---
 
 ## 📫 Let's Connect  
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🌐 [Portfolio](https://yourportfolio.com)  
-- 📧 Email: youremail@example.com  
+- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/saksham-mathur-91b832251/))  
+- 📧 Email: sakshammathur0829@gmail.com  
 
 ---
 ⭐️ *Check out my repositories and feel free to contribute or connect with me!*  
