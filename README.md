@@ -27,19 +27,29 @@ This tool helps users upload datasets, visualize insights, and perform quick ana
 ---
 
 ## 🚀 Features  
-- 👨‍🎓 **Student Management** – Register, update, and track student records  
-- 👩‍🏫 **Faculty Management** – Manage faculty data and assignments  
-- 📚 **Course Administration** – Add, edit, and enroll courses  
-- 📊 **Analytics Dashboard** – Visual overview of data (students, faculty, courses)  
-- 🌐 **Deployed on Vercel** – Accessible anytime, anywhere  
+- 📂 Upload CSV files for instant analysis  
+- 📊 Generate descriptive statistics (mean, median, mode, etc.)  
+- 📈 Interactive visualizations (histograms, bar charts, scatter plots, heatmaps)  
+- 🔎 Correlation matrix and pair plots  
+- 🧹 Handles missing values & datatype detection  
+- ⚡ Runs entirely in the browser, no setup needed  
 
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend:** React, TailwindCSS  
-- **Backend (Planned/Future):** Node.js / Spring Boot  
-- **Database (Planned/Future):** PostgreSQL / MongoDB  
-- **Deployment:** Vercel  
+- **Frontend & Hosting**: [Streamlit](https://streamlit.io/)  
+- **Data Handling**: Pandas, NumPy  
+- **Visualization**: Matplotlib, Seaborn, Plotly  
+
+---
+
+## 📦 Installation (Local Setup)  
+Clone the repository and install dependencies:  
+
+```bash
+git clone https://github.com/sam2900/EDA.git
+cd EDA
+pip install -r requirements.txt
 
 ---
 
