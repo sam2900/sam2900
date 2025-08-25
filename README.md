@@ -17,25 +17,80 @@ I enjoy building scalable applications, solving complex problems, and contributi
 
 ## 📌 Featured Projects  
 
-### [📱 Mobile Task Manager (React Native + Spring Boot)](https://github.com/yourusername/project1)  
-A mobile app to assign, track, and verify tasks with geolocation tagging and time tracking.  
-- 🔹 Built REST APIs in Spring Boot with JWT authentication  
-- 🔹 Integrated geolocation & camera for task verification  
-- 🔹 Deployed backend on AWS EC2 & RDS  
+# 📊 Exploratory Data Analysis (EDA) App  
+
+An interactive **Exploratory Data Analysis (EDA) web app** built with **Python & Streamlit**.  
+This tool helps users upload datasets, visualize insights, and perform quick analysis — all from the browser.  
+
+🔗 **Live Demo**: [Try it here on Streamlit Cloud](https://eda.streamlit.app/)  
+
+
+# 🌌 UniVerse – Visual Problem-Solving Platform  
+
+**UniVerse** is an interactive platform where users can **visualize problem statements** as **nodes and graphs**, connect related ideas, and collaboratively build a structured knowledge base.  
+Think of it as **StackOverflow meets a graph network** – a new way to map, explore, and manage knowledge.  
+
+🔗 **Live Demo**: [Try UniVerse](https://uni-new-latest-1xlegbhxx-saksham-mathurs-projects.vercel.app)  
+🔗 **Repo**: [GitHub](https://github.com/sam2900/uniNew-latest)  
 
 ---
 
-### [🌐 Personal Portfolio Website](https://yourportfolio.com)  
-Responsive portfolio built with React & TailwindCSS, hosted on GitHub Pages.  
-- Showcases projects, blog posts, and contact info  
-- CI/CD pipeline with GitHub Actions  
+## 🚀 Features  
+- 🧩 **Graph-Based Knowledge Mapping** – Visualize problem statements as nodes  
+- 🔗 **Connect Nodes** – Link related ideas, solutions, or sub-problems  
+- ➕ **CRUD Operations** – Add, edit, and delete nodes dynamically  
+- 📑 **Attach Docs** – Add supporting documents/resources to nodes  
+- 👥 **Collaboration-Ready** – Built to evolve into a shared knowledge ecosystem  
+- 🌐 **Deployed on Vercel** – Accessible instantly from anywhere  
 
 ---
 
-### [⚡ API Rate Limiter (Node.js + Redis)](https://github.com/yourusername/project2)  
-Middleware for API rate limiting using Redis.  
-- Supports sliding window algorithm  
-- Dockerized for scalable deployments  
+## 🛠️ Tech Stack  
+- **Frontend:** React, TailwindCSS, D3.js / React Flow (for graph visualization)  
+- **Backend :** Node.js
+- **Database:** MongoDB (for graph persistence)  
+- **Deployment:** Vercel  
+
+---
+
+## 📦 Local Setup  
+
+Clone the repository:  
+
+```bash
+git clone https://github.com/sam2900/uniNew-latest.git
+cd uniNew-latest
+
+
+
+---
+
+## 🚀 Features  
+- 📂 Upload CSV files for instant analysis  
+- 📊 Generate descriptive statistics (mean, median, mode, etc.)  
+- 📈 Interactive visualizations (histograms, bar charts, scatter plots, heatmaps)  
+- 🔎 Correlation matrix and pair plots  
+- 🧹 Handles missing values & datatype detection  
+- ⚡ Runs entirely in the browser, no setup needed  
+- Can also do model training.
+---
+
+## 🛠️ Tech Stack  
+- **Frontend & Hosting**: [Streamlit](https://semiml.streamlit.app)  
+- **Data Handling**: Pandas, NumPy  
+- **Visualization**: Matplotlib, Seaborn, Plotly  
+
+---
+
+
+## 📦 Installation (Local Setup)  
+Clone the repository and install dependencies:  
+
+```bash
+git clone https://github.com/sam2900/EDA.git
+cd EDA
+pip install -r requirements.txt
+
 
 ---
 
