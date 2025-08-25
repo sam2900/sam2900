@@ -33,15 +33,16 @@ This tool helps users upload datasets, visualize insights, and perform quick ana
 - 🔎 Correlation matrix and pair plots  
 - 🧹 Handles missing values & datatype detection  
 - ⚡ Runs entirely in the browser, no setup needed  
-
+- Can also do model training.
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend & Hosting**: [Streamlit](https://streamlit.io/)  
+- **Frontend & Hosting**: [Streamlit](https://semiml.streamlit.app)  
 - **Data Handling**: Pandas, NumPy  
 - **Visualization**: Matplotlib, Seaborn, Plotly  
 
 ---
+
 
 ## 📦 Installation (Local Setup)  
 Clone the repository and install dependencies:  
@@ -51,7 +52,9 @@ git clone https://github.com/sam2900/EDA.git
 cd EDA
 pip install -r requirements.txt
 
+
 ---
+
 
 
 
@@ -96,34 +99,8 @@ cd uniNew-latest
 
 ---
 
-## 🚀 Features  
-- 📂 Upload CSV files for instant analysis  
-- 📊 Generate descriptive statistics (mean, median, mode, etc.)  
-- 📈 Interactive visualizations (histograms, bar charts, scatter plots, heatmaps)  
-- 🔎 Correlation matrix and pair plots  
-- 🧹 Handles missing values & datatype detection  
-- ⚡ Runs entirely in the browser, no setup needed  
-- Can also do model training.
----
-
-## 🛠️ Tech Stack  
-- **Frontend & Hosting**: [Streamlit](https://semiml.streamlit.app)  
-- **Data Handling**: Pandas, NumPy  
-- **Visualization**: Matplotlib, Seaborn, Plotly  
-
----
 
 
-## 📦 Installation (Local Setup)  
-Clone the repository and install dependencies:  
-
-```bash
-git clone https://github.com/sam2900/EDA.git
-cd EDA
-pip install -r requirements.txt
-
-
----
 
 ## 📊 GitHub Stats  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sam2900&show_icons=true&theme=radical)  
